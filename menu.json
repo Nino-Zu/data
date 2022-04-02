@@ -1,0 +1,74 @@
+message = [{
+owner: 'seikoo',
+menu: '*MAIN MENU*
+  ≻ #menu
+  ≻ #owner
+  ≻ #donasi
+  ≻ #speed
+  ≻ #runtime
+  ≻ #cekprem
+  ≻ #listprem
+
+  *CONVERTER/TOOLS*
+  ≻ #sticker
+  ≻ #toimg
+  ≻ #tovid
+
+  *DOWNLOADER*
+  ≻ #play
+  ≻ #tiktok
+  ≻ #ytmp4
+  ≻ #ytmp3
+  ≻ #getvideo
+  ≻ #getmusic
+  ≻ #instagram
+  ≻ #facebook
+  
+  *RANDOM MENU*
+  ≻ #quote
+  ≻ #cecan
+  ≻ #cogan
+  ≻ #waifu
+  ≻ #darkjoke
+  ≻ #meme
+  
+  *SEARCH MENU*
+  ≻ #lirik
+  ≻ #grupwa
+  ≻ #pinterest
+  ≻ #ytsearch
+  ≻ #igstalk
+  
+  *GAME MENU*
+  ≻ #tictactoe
+  ≻ #delttc
+  ≻ #tebakgambar
+  
+  *PAYMENT & BANK*
+  ≻ #buylimit
+  ≻ #buyglimit
+  ≻ #transfer
+  ≻ #limit
+  ≻ #balance
+  
+  *GROUP MENU*
+  ≻ #linkgrup
+  ≻ #setppgrup
+  ≻ #setnamegc
+  ≻ #setdesc
+  ≻ #group
+  ≻ #revoke
+  ≻ #hidetag
+  
+  *OWNER MENU*
+  > evalcode
+  x evalcode-2
+  $ executor
+  ≻ #join
+  ≻ #broadcast
+  ≻ #setppbot
+  ≻ #exif
+  ≻ #leave
+  ≻ #addprem
+  ≻ #delprem'
+  }]
